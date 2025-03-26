@@ -93,6 +93,11 @@
 
 8. License
     This project is open-source and available under the MIT License.
+ 
+## References & Learning Resources  
+This project was developed by learning from various open-source GitHub repositories and online tutorials.  
+I analyzed different implementations, understood the core concepts, and applied them to build this project.  
+
 
 
 
